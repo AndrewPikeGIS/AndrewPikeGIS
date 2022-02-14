@@ -10,6 +10,7 @@
 - Spatial data insights
 - ArcGIS Online/Portal WebApp development
 
+- https://www.linkedin.com/in/andrew-pike-mgis/
 
 - 📫 andrewpikegis@gmail.com
 
