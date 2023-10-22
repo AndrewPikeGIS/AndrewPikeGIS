@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrew Pike (@AndrewPikeGIS)
 
-- I'm a spatial data scientist keen on learning more and exploring the world of analytics!
+- I'm a Data Scientist keen on learning more and exploring the world of analytics!
 - I have a Master's degree in GIS and I have been working in the spatial analytics/data science field for 8 years.
 
 - Past projects include:
